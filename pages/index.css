@@ -1,0 +1,6 @@
+@import url(../vendor/normalize.css);
+@font-face {
+  src: url(../fonts/Inter/inter.css);
+  font-family: 'Inter';
+}
+@import url(../blocks/page/page.css);
