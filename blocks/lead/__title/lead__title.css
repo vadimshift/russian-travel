@@ -4,7 +4,5 @@
   text-align: center;
   color: #FFFFFF;
   max-width: 720px;
-  margin-top: 0px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto 0 auto;
 }
