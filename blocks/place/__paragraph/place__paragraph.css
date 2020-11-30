@@ -3,9 +3,15 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 163%;
-  /* or 29px */
+  line-height: 29px;
   color: #FFFFFF;
   max-width: 484px;
   margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+    font-size: 16px;
+    line-height: 26px;
+  }
 }

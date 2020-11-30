@@ -1,3 +1,20 @@
 .lead_margins {
-  margin: 56px auto 0 auto;
+  margin-top: 56px;
+  margin-left: 148px;
+  margin-right: 148px;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead_margins {
+    margin-left: 48px;
+    margin-right: 48px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .lead_margins {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
