@@ -23,3 +23,10 @@
     grid-column-gap: 28px;
   }
 }
+
+@media screen and (max-width: 320px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(5, minmax(min-content, max-content));
+  }
+}
