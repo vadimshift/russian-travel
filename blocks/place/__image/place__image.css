@@ -1,7 +1,8 @@
 .place__image {
-  max-width: 460px;
+  /*max-width: 460px;*/
+  width: 100%;
 }
-
+/*
 @media screen and (max-width: 1024px) {
   .place__image {
     max-width: 440px;
@@ -19,3 +20,4 @@
     max-width: 320px;
   }
 }
+*/
