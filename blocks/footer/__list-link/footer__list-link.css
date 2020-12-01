@@ -7,6 +7,6 @@
 
 @media screen and (max-width: 320px) {
   .footer__list-link {
-  flex-direction: column;
+    flex-direction: column;
   }
 }
