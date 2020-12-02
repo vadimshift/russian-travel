@@ -1,14 +1,15 @@
 .footer__link {
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-style: normal;
+  font-weight: normal;
   color: #FFFFFF;
   list-style: none;
   text-decoration: none;
-
 }
 
 .footer__link:hover {
   opacity: .8;
 }
-
 
 @media screen and (max-width: 320px) {
   .footer__link {
