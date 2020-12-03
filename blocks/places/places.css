@@ -21,11 +21,10 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 370px) {
   .places {
     margin-bottom: 32px;
     margin-left: 0;
     margin-right: 0;
   }
-
 }
